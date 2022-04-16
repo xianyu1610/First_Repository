@@ -12,3 +12,6 @@ class Cperson
 		~Cperson(){}
 
 }
+
+Cperson *p = NULL;
+
