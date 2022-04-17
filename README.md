@@ -41,3 +41,26 @@
 全面战争|298|1
 文明6|198|2
 
+```c
+#include <stdio.h>
+
+int main()
+{
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+
+using namespace std;
+{
+	retrurn 0;
+}
+```
+
+
+
+
+
+
